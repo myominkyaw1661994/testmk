@@ -4,3 +4,9 @@ console.log("testing");
 console.log("testing");
 console.log("etsti");
 console.log("fromgit");
+
+
+
+function sayHello(){
+  console.log("Hello");
+}
