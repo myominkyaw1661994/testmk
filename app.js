@@ -10,3 +10,7 @@ console.log("fromgit");
 function sayHello(){
   console.log("Hello");
 }
+
+function add(x, y) {
+  return x + y;
+}
