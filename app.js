@@ -10,3 +10,7 @@ console.log("fromgit");
 function sayHello(){
   console.log("Hello");
 }
+
+function reduce(x){
+  return x - 1
+}
