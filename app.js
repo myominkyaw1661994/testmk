@@ -18,6 +18,13 @@ function reduce(x){
   return x - 1
 }
 
+<<<<<<< HEAD
 function call() {
   console.log("call");
 }
+=======
+
+function blah(){
+  console.log("blah");
+}
+>>>>>>> 9548aa3266bb406b6088a34bd58981fb14d0cba9
