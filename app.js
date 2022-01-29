@@ -14,3 +14,8 @@ function sayHello(){
 function reduce(x){
   return x - 1
 }
+
+
+function blah(){
+  console.log("blah");
+}
